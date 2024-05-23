@@ -117,4 +117,7 @@ The models developed in this project effectively identify out-of-sequence and ou
 3. Run the notebooks sequentially.
 
 ## Contact and Further Information
-For inquiries or additional information, please contact kristarime@gmail.com
+For inquiries or additional information, please contact: 
+
+kristarime@gmail.com
+[LinkedIn](linkedin.com/in/kristarime)
